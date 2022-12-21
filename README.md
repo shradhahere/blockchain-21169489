@@ -66,6 +66,6 @@ For building and pushing the code to Docker Hub, use the follwing commands:
 - ```docker push [name:tag]```. 
   
 Link to my DockerHub repository:  
-https://hub.docker.com/repository/docker/shalinivaibhav/blockchain-21196354
+https://hub.docker.com/r/shradhahere/dockerfile_x21169489
 
-- Command to pull the repo from Docker Hub : docker pull shalinivaibhav/blockchain-21196354
+- Command to pull the repo from Docker Hub : docker pull shradhahere/dockerfile_x21169489
